@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/graysonhicks/pallypal-js.git"
   },
-  "author": "grayson hicks",
+  "author": {
+    "name": "Grayson Hicks",
+    "email": "graysonhicks@gmail.com",
+    "url": "http://graysonhicks.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/graysonhicks/pallypal-js/issues"
