@@ -43,7 +43,6 @@ function PallyPal() {
 
     final.scheme = this._scheme;
     final.variation = this._variation;
-
     return final;
   }
 };
