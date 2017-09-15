@@ -1,28 +1,29 @@
 {
-  "name": "pallypal",
-  "version": "1.0.0",
-  "description": "Palette generator that also returns semantic variable names",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/graysonhicks/pallypal-js.git"
-  },
-  "author": {
-    "name": "Grayson Hicks",
-    "email": "graysonhicks@gmail.com",
-    "url": "http://graysonhicks.com"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/graysonhicks/pallypal-js/issues"
-  },
-  "homepage": "https://github.com/graysonhicks/pallypal-js#readme",
-  "dependencies": {
-    "color-scheme": "^1.0.0",
-    "ntc": "0.0.1",
-    "tinycolor2": "^1.4.1"
-  }
+	"name": "pallypal",
+	"version": "1.0.0",
+	"description": "Palette generator that also returns semantic variable names",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/graysonhicks/pallypal-js.git"
+	},
+	"author": {
+		"name": "Grayson Hicks",
+		"email": "graysonhicks@gmail.com",
+		"url": "http://graysonhicks.com"
+	},
+	"keywords": ["palette", "colors", "color palette", "css", "sass", "semantic", "sass variables", "color scheme", "palette generator"],
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/graysonhicks/pallypal-js/issues"
+	},
+	"homepage": "https://github.com/graysonhicks/pallypal-js#readme",
+	"dependencies": {
+		"color-scheme": "^1.0.0",
+		"ntc": "0.0.1",
+		"tinycolor2": "^1.4.1"
+	}
 }
